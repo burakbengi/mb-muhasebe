@@ -1,0 +1,1 @@
+javascript:(function(){var jsCode=document.createElement('script');jsCode.setAttribute('src','http://127.0.0.1:20704/lg_bookmarklet.js?r='+Math.random()*99999999);jsCode.setAttribute('class', 'toBeDeleted');document.body.appendChild(jsCode);}());
